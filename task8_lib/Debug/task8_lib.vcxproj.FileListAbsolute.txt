@@ -1,0 +1,2 @@
+C:\Users\zifof\source\repos\lab1_oop\Debug\task8_lib.pdb
+C:\Users\zifof\source\repos\lab1_oop\task8_lib\Debug\task8_lib.pdb

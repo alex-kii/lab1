@@ -1,0 +1,5 @@
+﻿  task6_func.cpp
+C:\Users\zifof\source\repos\lab1_oop\task6\task6_func.cpp(6,12): error C3861: sin: идентификатор не найден
+C:\Users\zifof\source\repos\lab1_oop\task6\task6_func.cpp(6,30): error C3861: cos: идентификатор не найден
+C:\Users\zifof\source\repos\lab1_oop\task6\task6_func.cpp(6,45): error C3861: cos: идентификатор не найден
+C:\Users\zifof\source\repos\lab1_oop\task6\task6_func.cpp(6,63): error C3861: cos: идентификатор не найден
